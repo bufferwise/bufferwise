@@ -1,16 +1,13 @@
-## Hi there 👋
+```javascript
+const person = {
+  name: "Yuvraj",
+  aliases: ["Buffer"], // added an aliases property
+  dateOfBirth: "12th February 2004",
+  about: "I am a Discord community manager, web designer, and writer.",
+  languages: "Programming Languages I know: C Objective, C#, Java, Javascript, Typescript, Python.",
+  tools: "My Tools: Visual Studio Code, IntelliJ IDEA Ultimate, Figma Professional, Photoshop."
+  
+};
+```
 
-<!--
-**bufferwise/bufferwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Radhe Radhe!
