@@ -3,7 +3,7 @@ const person = {
   name: "Yuvraj",
   aliases: ["Buffer"],
   dateOfBirth: "12th February 2004",
-  occupation: "Discord Community Manager & Developer - Self Employed",
+  occupation: "Discord Community Manager & Developer - Self Employed"
 };
 ```
 ```cmd
