@@ -1,13 +1,22 @@
 ```javascript
 const person = {
   name: "Yuvraj",
-  aliases: ["Buffer"], // added an aliases property
+  aliases: ["Buffer"],
   dateOfBirth: "12th February 2004",
-  about: "I am a Discord community manager, web designer, and writer.",
-  languages: "Programming Languages I know: C Objective, C#, Java, Javascript, Typescript, Python.",
-  tools: "My Tools: Visual Studio Code, IntelliJ IDEA Ultimate, Figma Professional, Photoshop."
-  
+  occupation: "Discord Community Manager & Developer - Self Employed",
 };
 ```
+```cmd
+@echo off
+echo My Social Media Accounts:
 
-### Radhe Radhe!
+start https://discord.com/invite/26MMXRHgZB
+start https://www.youtube.com/@bufferwise?sub_confirmation=1
+start https://www.instagram.com/bufferwise/
+start https://threads.net/bufferwise
+start https://x.com/bufferwise
+start https://bento.me/buffer
+
+cls
+exit
+```
