@@ -1,40 +1,45 @@
 ![bufferwise](https://github.com/user-attachments/assets/8cb4ccc5-a07e-4028-bd80-ed6916f966ff)
 ```javascript
 const buffer = {
+  // Personal Information
   pronouns: "he/him", // Pronouns used
   dateOfBirth: "12-02-2004", // DD-MM-YYYY format
   
+  // Known Programming Languages
   languages: {
-    frontend: ["HTML", "CSS", "JavaScript", "TypeScript"], // Frontend Languages
-    backend: ["Python", "Java", "C", "C#", "Node.js"], // Backend Languages
-    database: ["SQL", "NoSQL"] // Database Query Languages
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript"], // Frontend languages used for client-side development
+    backend: ["Python", "Java", "C", "C#", "Node.js"], // Backend languages used for server-side development
+    database: ["SQL", "NoSQL"] // Languages used for database management
   },
 
+  // Tools and Softwares
   tools: {
-    frontend: ["React", "SASS", "Tailwind CSS", "Bootstrap"], // Frontend Frameworks and Libraries
-    backend: ["Node.js"], // Backend Frameworks and Libraries
-    databases: ["MongoDB", "MySQL"], // Databases
-    versionControl: ["Git"], // Version Control
-    packageManagers: ["NPM", "Yarn"], // Package Managers
-    buildTools: ["Webpack", "Babel"], // Build Tools
-    testing: ["Jest", "Mocha", "Chai"], // Testing Tools
-    developmentEnvironments: ["Visual Studio Code"], // Development Environments
-    designTools: ["Adobe Photoshop", "Figma"], // Design Tools
-    deployment: ["Docker", "AWS", "Heroku"] // Deployment and Hosting
+    frontend: ["React", "SASS", "Tailwind CSS", "Bootstrap"], // Frontend frameworks and libraries
+    backend: ["Node.js"], // Backend framework used for server-side development
+    databases: ["MongoDB", "MySQL"], // Databases used for data storage and management
+    versionControl: ["Git"], // Version control systems used for tracking code changes
+    packageManagers: ["NPM", "Yarn"], // Package managers used for managing dependencies
+    buildTools: ["Webpack", "Babel"], // Build tools used for bundling and compiling code
+    testing: ["Jest", "Mocha", "Chai"], // Testing tools used for ensuring code quality
+    developmentEnvironments: ["Visual Studio Code"], // Integrated Development Environment (IDE) used for coding
+    designTools: ["Adobe Photoshop", "Figma"], // Tools used for designing and prototyping
+    deployment: ["Docker", "AWS", "Heroku"] // Tools and platforms used for deployment and hosting
   },
 
+  // Favorite Games
   games: {
-    mostPlayed: ["Call Of Duty: Mobile", "Free Fire", "Valorant"], // Competitive in Call Of Duty: Mobile
-    mindGame: ["Chess"], // Strategy and Puzzle
-    blockGame: ["Minecraft Java Edition"] // The Block Game
+    mostPlayed: ["Call Of Duty: Mobile", "Free Fire", "Valorant"], // Competitive games, with a focus on Call Of Duty: Mobile
+    mindGame: ["Chess"], // Strategy and puzzle games
+    blockGame: ["Minecraft Java Edition"] // Sandbox games, often referred to as "The Block Game"
   },
 
-  
+  // Services Offered as a Self-Employed Professional
   selfEmployed: {
-    web: ["web-designing", "full-stack-development"], // Web Services
-    communityManagement: ["discord-community-management"] // Community Management Services
+    web: ["web-designing", "full-stack-development"], // Services related to web development
+    communityManagement: ["discord-community-management"] // Services related to managing online communities
   },
 
+  // Social Media Presence
   socialMedia: {
     communication: {
       discord: "https://bit.ly/bufferwise" // Discord server
@@ -50,7 +55,7 @@ const buffer = {
     }
   },
 
-  // Personal mission statement or goal
+  // Personal Mission Statement or Goal
   bufferwise: "I just wanted to be a competitive esports player in Call Of Duty: Mobile."
 };
 ```
