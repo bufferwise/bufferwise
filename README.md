@@ -1,22 +1,17 @@
+![bufferwise](https://github.com/user-attachments/assets/8cb4ccc5-a07e-4028-bd80-ed6916f966ff)
 ```javascript
-const person = {
-  name: "Yuvraj",
-  aliases: ["Buffer"],
-  dateOfBirth: "12th February 2004",
-  occupation: "Discord Community Manager & Developer - Self Employed"
-};
-```
-```cmd
-@echo off
-echo My Social Media Accounts:
+const buffer = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Node, Docker, Visual Studio Code, Adobe Photoshop, Figma],
+  selfEmployed: ["web-designing", "full-stack-development", "discord-community-management"],
+  socialMedia: {
+                        discord: "bit.ly/bufferwise",
+                        bento: "bento.me/buffer",
+                        instagram: "bufferwise",
+                        threads: "bufferwise"
 
-start https://discord.com/invite/26MMXRHgZB
-start https://www.youtube.com/@bufferwise?sub_confirmation=1
-start https://www.instagram.com/bufferwise/
-start https://threads.net/bufferwise
-start https://x.com/bufferwise
-start https://bento.me/buffer
-
-cls
-exit
+                },
+ lookingFor: "Music & Project Suggestions."
+}
 ```
