@@ -56,7 +56,7 @@ const buffer = {
   },
 
   // Personal Mission Statement or Goal
-  bufferwise: "I just wanted to be a competitive esports player in Call Of Duty: Mobile."
+  bufferwise: "Get the life buffed."
 };
 ```
 ![status](https://api.statusbadges.me/badge/status/790846560229392444?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/790846560229392444?style=for-the-badge) [![spotify](https://api.statusbadges.me/badge/spotify/790846560229392444?style=for-the-badge)](https://api.statusbadges.me/openspotify/790846560229392444) ![vscode](https://api.statusbadges.me/badge/vscode/790846560229392444?style=for-the-badge)
