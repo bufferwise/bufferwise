@@ -10,7 +10,7 @@ Radhe Radhe! I'm Yuvraj, known in the digital realm as bufferwise. Born on Febru
 ## Technical Stack
 
 ```java
-// Represents a comprehensive Java development environment configuration.
+// Represents my comprehensive Java development environment configuration.
 
 public class JavaStack {
     // Backend frameworks for server-side application development
