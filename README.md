@@ -342,18 +342,18 @@ const WebStack = {
 
 ```
 
-## Current Focus
+## Facts About Me
 - Currently mastering C++ & Java
 - Gaming: Call of Duty: Mobile, Nulls Brawl
 - Sports: Chess, Badminton, Cricket (Aggressive Batting)
 - Favorite Cuisine: South Indian (Dosa Enthusiast)
 
-# My Social Media
+## My Social Media
 - Portfolio: [Bento Profile](https://bento.me/buffer)
 - Instagram/Threads: [@bufferwise](https://www.instagram.com/bufferwise)
 - Twitter: [@bufferwise](https://x.com/bufferwise)
 
-## Professional Contact
+## Contact
 
 I’m always happy to connect and discuss technology, collaboration, or community building. You can reach me through:
 
