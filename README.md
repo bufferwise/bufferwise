@@ -4,7 +4,6 @@
 
 [![Status](https://api.statusbadges.me/badge/status/790846560229392444?style=for-the-badge)](https://discord.com/users/790846560229392444) 
 [![VSCode](https://api.statusbadges.me/badge/vscode/790846560229392444?style=for-the-badge)](https://discord.gg/26MMXRHgZB) 
-## Profile Overview
 
 Radhe Radhe! I'm Yuvraj, known in the digital realm as bufferwise. Born on February 12, 2004, in India, I've cultivated expertise as a Full-Stack Developer, UI/UX Designer (Figma), and Discord Community Manager. My journey spans across modern web technologies, enterprise-level frameworks, and community leadership.
 
