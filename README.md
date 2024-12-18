@@ -1,6 +1,6 @@
 # 👋🏻 Radhe Radhe
 
-I'm Yuvraj, known professionally as bufferwise. Born in India on February 12, 2004, I've established myself as a Full-Stack Developer, UI/UX Designer (Figma), and Discord Community Manager.
+I'm **Yuvraj**, known professionally as **bufferwise**. Born in Bharat on February 12, 2004, I've established myself as a Full-Stack Developer, UI/UX Designer (Figma), and Discord Community Manager.
 
 # Technical Stack Overview
 
