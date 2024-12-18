@@ -17,9 +17,7 @@ Django, Flask, and FastAPI drive backend development, with Jinja2 and Chameleon 
 Core technologies include HTML5, CSS3, JavaScript, and TypeScript. Frontend frameworks comprise React.js, Angular, Vue.js, Svelte, and Solid.js, styled with Tailwind CSS, Bootstrap, and Material-UI. Build tools include Webpack, Vite, and Rollup. Testing uses Jest, Cypress, and Playwright. State management involves Redux, MobX, and Recoil. Backend utilizes Express.js and NestJS. DevOps tools include Docker, Kubernetes, GitHub Actions, Jenkins, plus AWS, Azure, and Google Cloud platforms.
 
 ## Contacts
-If you'd like to reach out, you can DM me on Discord ([@bufferwise](https://discord.gg/26MMXRHgZB)), email me for business inquiries at [buffer@outlook.in](mailto:buffer@outlook.in), or for general questions at [buffergg@duck.com](mailto:buffergg@duck.com).
-
-You can check out my [Bento](https://bento.me/buffer), follow me on [Instagram](https://www.instagram.com/bufferwise) and [Threads](https://www.threads.net/bufferwise), or connect with me on Twitter at [@bufferwise](https://x.com/bufferwise).
+If you'd like to reach out, you can DM me on Discord ([@bufferwise](https://discord.gg/26MMXRHgZB)), email me for business inquiries at [buffer@outlook.in](mailto:buffer@outlook.in), or for general questions at [buffergg@duck.com](mailto:buffergg@duck.com). You can also check out my [Bento](https://bento.me/buffer), follow me on [Instagram](https://www.instagram.com/bufferwise) and [Threads](https://www.threads.net/bufferwise), or connect with me on Twitter at [@bufferwise](https://x.com/bufferwise).
 
 ## Personal Interests
 
