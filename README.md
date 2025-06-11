@@ -1,7 +1,5 @@
 # 👋🏻 Radhe Radhe
 
-I'm **Yuvraj**, known professionally as **bufferwise**. Born in Bharat on February 12, 2004, I've established myself as a Full-Stack Developer, UI/UX Designer (Figma), and Discord Community Manager.
-## Contacts
 If you'd like to reach out, you can DM me on Discord ([**@bufferwise**](https://discord.gg/26MMXRHgZB)), email me for business inquiries at [**buffer@outlook.in**](mailto:buffer@outlook.in), or for general questions at [**buffergg@duck.com**](mailto:buffergg@duck.com). You can also check out my [Bento](https://bento.me/buffer) for my discord related works, follow me on [Instagram](https://www.instagram.com/bufferwise) and [Threads](https://www.threads.net/bufferwise), or connect with me on Twitter at [@bufferwise](https://x.com/bufferwise).
 
 ## Personal Interests
