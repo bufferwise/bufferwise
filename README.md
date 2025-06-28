@@ -4,7 +4,7 @@ If you'd like to reach out, you can DM me on Discord ([**@bufferwise**](https://
 
 ## Personal Interests
 
-- Currently advancing expertise in C++ & Java
+- Currently advancing expertise in Typescript & Kotlin
 - Games which I mainly play includes Call of Duty: Mobile & Nulls Brawl
 - I like playing Chess, Badminton, Cricket (Aggressive Batting style)
 - I love South Indian cuisine (Dosa)
